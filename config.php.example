@@ -1,0 +1,8 @@
+<?php
+$install_dir = '/var/www/caltest';
+$files = array(
+	array('cal1.ics','https://www.google.com/calendar/ical/xxx@gmail.com/private-xxxx/basic.ics'),
+	array('cal2.ics','https://www.google.com/calendar/ical/xxx@gmail.com/private-xxxx/basic.ics'),
+	array('cal3.ics','https://www.google.com/calendar/ical/xxx@gmail.com/private-xxxx/basic.ics')
+);
+?>

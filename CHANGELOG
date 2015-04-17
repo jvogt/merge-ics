@@ -1,10 +1,9 @@
-merge_ics 1.7 (in development)
-==============================
+merge_ics 2.0 (2015-04-17)
+==========================
 
-* fix for issue 3 "NameError: name 'Timezone' is not defined" (thanks to jjspreij)
-* feature to ignore historic events
-* feature to ignore duplicated events
-* script clean up
+* Forked from https://code.google.com/p/merge-ics/
+* Added config file
+* Hacked together a php wrapper to perform merging on the fly to server calendar clients
 
 merge_ics 1.6 (2007-07-09)
 ==========================
